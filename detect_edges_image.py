@@ -6,6 +6,8 @@ import argparse
 import cv2
 import os
 
+print("Hello")
+
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-d", "--edge-detector", type=str, required=True,
