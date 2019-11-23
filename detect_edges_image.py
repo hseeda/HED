@@ -7,8 +7,9 @@ import cv2
 import os
 
 print("Hello")
-
-
+print ("test")
+print ("test")
+print ("test")
 print ("test")
 
 # construct the argument parser and parse the arguments
