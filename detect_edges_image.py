@@ -8,6 +8,9 @@ import os
 
 print("Hello")
 
+
+print ("test")
+
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-d", "--edge-detector", type=str, required=True,
