@@ -1,0 +1,1 @@
+ python detect_edges_image.py --edge-detector hed_model -i images\guitar.jpg
