@@ -15,6 +15,8 @@ path = r"/home/hassan/dev/holistically-nested-edge-detection/test/sample_1.jpg"
 os.environ["QT_AUTO_SCREEN_SCALE_FACTOR"] = "1"
 
 
+Print("fffffffffff")
+
 # print(path)
 hdir = os.path.dirname(path)
 # print(hdir)
